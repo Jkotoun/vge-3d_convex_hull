@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vge-3d_convex_hull/static/css/main.990753ca.css",
+    "main.js": "/vge-3d_convex_hull/static/js/main.8f70a0f3.js",
+    "index.html": "/vge-3d_convex_hull/index.html",
+    "main.990753ca.css.map": "/vge-3d_convex_hull/static/css/main.990753ca.css.map",
+    "main.8f70a0f3.js.map": "/vge-3d_convex_hull/static/js/main.8f70a0f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.990753ca.css",
+    "static/js/main.8f70a0f3.js"
+  ]
+}
